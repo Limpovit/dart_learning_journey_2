@@ -25,7 +25,7 @@ void main() {
     if (number < 100) {
       print("$number is smaller than 100");
     } else {
-      print("$number is bigger than 50");
+      print("$number is bigger than 100");
     }
     if (number % 5 == 0) {
       print("$number is divisible by 5 without a remainder");
